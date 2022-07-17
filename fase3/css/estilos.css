@@ -1,0 +1,59 @@
+header{
+    text-align: center;
+    background-color: #BF9270;
+
+}
+nav{
+    background-color: #E3B7A0;
+}
+
+nav li a:hover{
+    background-color: #ffffff;
+}
+
+nav li ul{
+    display: none;
+}
+
+nav li:hover > ul {
+    display: block;
+
+}
+
+section{
+    grid-column: 1/4;
+    background-color: #EDCDBB;
+
+}
+
+aside{
+    text-align: center;
+    grid-column: 4/5;
+    background-color: #F9E4D4;
+
+
+}
+
+footer{
+    text-align: center;
+    background-color: #BF9270;
+    
+
+}
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+ 
+.autor{
+    text-align: center;
+
+}
