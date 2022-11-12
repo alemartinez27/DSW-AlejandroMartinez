@@ -1,10 +1,10 @@
 header{
     text-align: center;
-    background-color: #BF9270;
+    background-color: #ffffff;
 
 }
 nav{
-    background-color: #E3B7A0;
+    background-color: #ffffff;
 }
 
 nav li a:hover{
@@ -22,21 +22,21 @@ nav li:hover > ul {
 
 section{
     grid-column: 1/4;
-    background-color: #EDCDBB;
+    background-color: #ffffff;
 
 }
 
 aside{
     text-align: center;
     grid-column: 4/5;
-    background-color: #F9E4D4;
+    background-color: #ffffff;
 
 
 }
 
 footer{
     text-align: center;
-    background-color: #BF9270;
+    background-color: #ffffff;
     
 
 }
